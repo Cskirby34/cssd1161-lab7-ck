@@ -3,3 +3,5 @@ git branch - List branches.
 git add - Stage files for commit.
 git merge <branch> - create and switch.
 git commit -m "message" -Record a change.
+git remote add origin <URL> -Connect yo GitHub
+git push -u origin main -Push local commits to remote (Github).
